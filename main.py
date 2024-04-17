@@ -30,7 +30,7 @@ def main():
     print(dog2.getAge())
     dog2.bark()
     print(dog2.getAge())
-    print(dog2.setWeight(-3))
+    dog2.setWeight(-3)
     print(dog2.getWeight())
     print()
 
